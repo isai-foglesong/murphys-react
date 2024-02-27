@@ -1,0 +1,17 @@
+body {
+  --bs-body-color: white;
+  background: url("murphys-new-background.jpeg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.nav {
+  --bs-nav-link-color: white;
+}
+
+#topMenu, #bottomMenu {
+  background-color: #1B4F24;
+}
+
+#centerText {
+  height: 650px;
+}
